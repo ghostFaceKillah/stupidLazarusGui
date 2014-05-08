@@ -1,0 +1,26 @@
+ile bierze pudzian na klatę gdy ma dobry dzień? ____
+*(1) miliard
+*(0) 100 kilo
+*(0) 2,50 zł
+*(0) 40%
+
+czy lubisz psy? ___
+*(0) tak
+*(0) nie
+*(1) i tak i nie
+*(0) nie wiem
+*(1) nie mam zdania
+*(0) mam psa
+
+Burrito to jest ____ z bardzo dobrym ____.
+*(0) 2 
+*(2) serkiem
+*(0) Hoemofizm
+*(0) Sergeant Paper
+*(1) naleśnik
+
+______ lubię seks z meżczyznami.
+*(1) Tak, bardzo 
+*(1) Owszem,
+*(1) Nie można przecenić jak bardzo
+

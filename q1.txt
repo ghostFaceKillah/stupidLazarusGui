@@ -19,8 +19,10 @@ Burrito to jest ____ z bardzo dobrym ____.
 *(0) Sergeant Paper
 *(1) naleśnik
 
-______ lubię seks z meżczyznami.
-*(1) Tak, bardzo 
-*(1) Owszem,
-*(1) Nie można przecenić jak bardzo
-
+Owsianka ma około ___ kalorii, przy czym dorosły człowiek 
+potrzebuje około ____ kcal.
+*(1) 200
+*(2) 2500
+*(0) 163
+*(0) 100000
+*(0) 321039
